@@ -1,6 +1,7 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 
 //these are the headers goten from coin ranking rapid api
+//hecking
 const cryptoApiHeaders = {
     'x-rapidapi-host': 'coinranking1.p.rapidapi.com',
     'x-rapidapi-key': '00eee68114msh57b48093eb0004bp18728ajsna100f954f1f1'
